@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">basic-mvp</string>
+    <string name="basic_mvp">Basic MVP</string>
 </resources>
